@@ -10,4 +10,16 @@
 
 ### Scripts:
 
-![Scripts](Assets/Scripts/PlayerScore.cs)
+![Scripts](Assets/Scripts/L1/PlayerScore.cs)
+
+# Prog M4 Les 2 "Bewegende Speler"
+
+![gif](M4L-2-GIF.gif)
+
+## Hier zie je dat wanneer de pijltjestoetsen worden ingedrukt, de kubus naar links en rechts beweegt. 
+
+## Ook kun je zien dat wanneer er op de spatiebalk wordt gedrukt, de kubus in de lucht springt.
+
+### Scripts:
+
+![Scripts](Assets/Scripts/L2/PlayerControl.cs)
