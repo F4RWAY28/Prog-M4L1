@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l2\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|c:\\unity prog m4l1\\prog m4l1\\assets\\scripts\\l2\\cube spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|C:\\Unity Prog M4L1\\prog M4L1\\assets\\scripts\\l2\\cube spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l2\\cube spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\L2\\PlayerControl.cs",
               "ToolTip": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L2\\PlayerControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\L2\\PlayerControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T11:01:26.727Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Assets\\Scripts\\L2\\Cube Spin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:01:59.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T10:01:59.301Z"
             },
             {
               "$type": "Document",

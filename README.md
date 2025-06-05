@@ -8,9 +8,9 @@
 
 ## Als deze criteria is behaald, wordt er een nieuw bericht weergegeven in de Console die aangeeft dat je hebt gewonnen.
 
-### Scripts:
+### Script:
 
-![Scripts](Assets/Scripts/L1/PlayerScore.cs)
+[Script](Assets/Scripts/L1/PlayerScore.cs)
 
 # Prog M4 Les 2 "Bewegende Speler"
 
@@ -20,6 +20,20 @@
 
 ## Ook kun je zien dat wanneer er op de spatiebalk wordt gedrukt, de kubus in de lucht springt.
 
-### Scripts:
+### Script:
 
-![Scripts](Assets/Scripts/L2/PlayerControl.cs)
+[Script](Assets/Scripts/L2/PlayerControl.cs)
+
+# Prog M4 Les 3 "Timed Muntjacht"
+
+![gif](M4L-3-GIF.gif)
+
+## Hier zie je dat wanneer ik de game start, een timer van 20 seconden aftelt , terwijl deze timer aan is, moet de speler de "coins" (kleinere cubussen) aanraken om punten te verdienen. (Dit wordt weergegeven in de console).
+
+## Elke keer dat de speler een "Coin" aanraakt, wordt der 10 bij de score opgeteld. (dit wordt weergegeven in de console).
+
+## Als de timer stopt en je een bepaald aantal punten wel of niet hebt behaald, wordt het weergegeven in de console. 
+
+### Script:
+
+[Script](Assets/Scripts/L3/Game%20Manager.cs)

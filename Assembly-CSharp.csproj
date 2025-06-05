@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\L2\PlayerControl.cs" />
     <Compile Include="Assets\Scripts\L1\PlayerScore.cs" />
+    <Compile Include="Assets\Scripts\L3\Game Manager.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\L2\Cube Spin.cs" />
   </ItemGroup>
