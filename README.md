@@ -37,3 +37,35 @@
 ### Script:
 
 [Script](Assets/Scripts/L3/Game%20Manager.cs)
+
+# Prog M4 Les 4 "Start en Spel"
+
+![gif](M4L-4-GIF.gif)
+
+## Hier zie je in de Unity User Interface, dat wanneer ik de game start, de scene 'L4' wordt vertoond. Zodra ik op spatie druk, verandert de scene naar een nieuwe scene 'L4.1'.
+
+## Hierin bevindt zich een simpele game waarin je door de pijltjestoetsen of 'A' en 'D' toetsen indrukt, je de kubus naar rechts en naar links kunt bewegen.
+
+## Ook zie je een coin op de grond liggen, maar die heeft voor nu geen functie. 
+
+### Scripts:
+
+[Script](Assets/Scripts/L4/Player%20Control%202.cs)
+
+[Script](Assets/Scripts/L4/Scene%20Switcher.cs)
+
+# Prog M4 Les 5 "Gestructureerde Muntjager"
+
+![gif](M4L-5-GIF.gif)
+
+## Hier zie je dat zodra ik de game start een error krijg.
+
+## Deze error is expres gemaakt om te kijken of het script van de Score Manager wel is ingesteld.
+
+## Ook zie je een kubus en een coin op een plane, als je de coin door de pijltjes en- de 'A' en 'D' toetsen met de kubus raakt, zal de coin verwijderen en er een bericht worden gegeven in de console dat aangeeft dat je tien punten hebt gescoord en jouw totale score nu in dit geval 10 is.. 
+
+### Scripts:
+
+[Script](Assets//Scripts/L5/Player%20Move.cs)
+
+[Script](Assets/Scripts/L5/Score%20Manager.cs)

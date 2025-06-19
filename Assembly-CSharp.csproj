@@ -61,11 +61,15 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.1.1f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\L5\Score Manager.cs" />
     <Compile Include="Assets\Scripts\L2\PlayerControl.cs" />
+    <Compile Include="Assets\Scripts\L4\Player Control 2.cs" />
+    <Compile Include="Assets\Scripts\L5\Player Move.cs" />
     <Compile Include="Assets\Scripts\L1\PlayerScore.cs" />
     <Compile Include="Assets\Scripts\L3\Game Manager.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\L2\Cube Spin.cs" />
+    <Compile Include="Assets\Scripts\L4\Scene Switcher.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

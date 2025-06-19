@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Unity Prog M4L1\\prog M4L1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|c:\\unity prog m4l1\\prog m4l1\\assets\\scripts\\l2\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|c:\\unity prog m4l1\\prog m4l1\\assets\\scripts\\l5\\score manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l5\\score manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|c:\\unity prog m4l1\\prog m4l1\\assets\\scripts\\l4\\player control 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l4\\player control 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|C:\\Unity Prog M4L1\\prog M4L1\\assets\\scripts\\l4\\scene switcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l4\\scene switcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|C:\\Unity Prog M4L1\\prog M4L1\\assets\\scripts\\l3\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l3\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|C:\\Unity Prog M4L1\\prog M4L1\\assets\\scripts\\l2\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E62F3BC-2166-89ED-C1A7-7E9900B84175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l2\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +43,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Score Manager.cs",
+              "DocumentMoniker": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L5\\Score Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\L5\\Score Manager.cs",
+              "ToolTip": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L5\\Score Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\L5\\Score Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:08:15.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player Control 2.cs",
+              "DocumentMoniker": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L4\\Player Control 2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\L4\\Player Control 2.cs",
+              "ToolTip": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L4\\Player Control 2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\L4\\Player Control 2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:10:35.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene Switcher.cs",
+              "DocumentMoniker": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L4\\Scene Switcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\L4\\Scene Switcher.cs",
+              "ToolTip": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L4\\Scene Switcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\L4\\Scene Switcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:51:32.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game Manager.cs",
+              "DocumentMoniker": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L3\\Game Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\L3\\Game Manager.cs",
+              "ToolTip": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L3\\Game Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\L3\\Game Manager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:22:58.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerControl.cs",
               "DocumentMoniker": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L2\\PlayerControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\L2\\PlayerControl.cs",
@@ -34,12 +100,11 @@
               "RelativeToolTip": "Assets\\Scripts\\L2\\PlayerControl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T11:01:26.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T11:01:26.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Cube Spin.cs",
               "DocumentMoniker": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\L2\\Cube Spin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\L2\\Cube Spin.cs",
@@ -51,14 +116,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PlayerScore.cs",
               "DocumentMoniker": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\PlayerScore.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScore.cs",
               "ToolTip": "C:\\Unity Prog M4L1\\prog M4L1\\Assets\\Scripts\\PlayerScore.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerScore.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:00:51.42Z"
+              "WhenOpened": "2025-05-09T12:00:51.42Z",
+              "EditorCaption": ""
             }
           ]
         }
