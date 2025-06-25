@@ -77,7 +77,7 @@
 
 ## Wanneer ik de game start, volgt de bal de speler. (De kubus).
 
-## De kubus kan ik besturen met de 'W', 'A', 'S', 'D' en pijltjestoetsen.
+## De speler kan ik besturen met 'W', 'A', 'S', 'D' en de pijltjestoetsen.
 
 ### Scripts:
 
