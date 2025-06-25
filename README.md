@@ -62,10 +62,25 @@
 
 ## Deze error is expres gemaakt om te kijken of het script van de Score Manager wel is ingesteld.
 
-## Ook zie je een kubus en een coin op een plane, als je de coin door de pijltjes en- de 'A' en 'D' toetsen met de kubus raakt, zal de coin verwijderen en er een bericht worden gegeven in de console dat aangeeft dat je tien punten hebt gescoord en jouw totale score nu in dit geval 10 is.. 
-
+## Ook zie je een kubus en een coin op een plane, als je de coin door de pijltjes en- de 'A' en 'D' toetsen met de kubus raakt, zal de coin verwijderen en er een bericht worden gegeven in de console dat aangeeft dat je tien punten hebt gescoord en jouw totale score nu in dit geval 10 is.
 ### Scripts:
 
 [Script](Assets//Scripts/L5/Player%20Move.cs)
 
 [Script](Assets/Scripts/L5/Score%20Manager.cs)
+
+# Prog M4 Les 6 "Volger"
+
+![gif](M4L-6-GIF.gif)
+
+## Hier zie je dat een kubus en een bal op een plane.
+
+## Wanneer ik de game start, volgt de bal de speler. (De kubus).
+
+## De kubus kan ik besturen met de 'W', 'A', 'S', 'D' en pijltjestoetsen.
+
+### Scripts:
+
+[Script](Assets/Scripts/L6/FollowAndReturn.cs)
+
+[Script](Assets/Scripts/L6/PlayerMove6.cs)
